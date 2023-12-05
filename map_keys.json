@@ -78,5 +78,15 @@
                 "timestamp": 1701376142
             }
         }
+    },
+    "1_12_version_6": {
+        "map_name": "1_12_version_6",
+        "regions": {
+            "r.0.0": {
+                "region": "r.0.0",
+                "uuid": "745a2f65cb4243dda4fb2a3ae5aafbb2",
+                "timestamp": 1701802220
+            }
+        }
     }
 }
