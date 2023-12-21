@@ -88,5 +88,15 @@
                 "timestamp": 1701971928
             }
         }
+    },
+    "debug_mode": {
+        "map_name": "debug_mode",
+        "regions": {
+            "r.0.0": {
+                "region": "r.0.0",
+                "uuid": "88ce8df4f403460a9eecad31cae7506a",
+                "timestamp": 1703153283
+            }
+        }
     }
 }
