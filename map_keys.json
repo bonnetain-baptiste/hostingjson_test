@@ -98,5 +98,15 @@
                 "timestamp": 1703153283
             }
         }
+    },
+    "entities_test": {
+        "map_name": "entities_test",
+        "regions": {
+            "r.0.0": {
+                "region": "r.0.0",
+                "uuid": "06de42fd498b4cfd9449c17a5ba6e8c8",
+                "timestamp": 1703162437
+            }
+        }
     }
 }
