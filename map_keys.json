@@ -22,32 +22,31 @@
                 "uuid": "06de42fd498b4cfd9449c17a5ba6e8c8",
                 "timestamp": 1700865880
             },
-             "r.-1.0": {
+            "r.-1.0": {
                 "region": "r.-1.0",
                 "uuid": "06de42fd498b4cfd9449c17a5ba6e8c8",
                 "timestamp": 1700865880
             },
-             "r.-1.1": {
+            "r.-1.1": {
                 "region": "r.-1.1",
                 "uuid": "06de42fd498b4cfd9449c17a5ba6e8c8",
                 "timestamp": 1700865880
             },
-             "r.1.-1": {
+            "r.1.-1": {
                 "region": "r.1.-1",
                 "uuid": "06de42fd498b4cfd9449c17a5ba6e8c8",
                 "timestamp": 1700865880
             },
-             "r.1.0": {
+            "r.1.0": {
                 "region": "r.1.0",
                 "uuid": "06de42fd498b4cfd9449c17a5ba6e8c8",
                 "timestamp": 1700865880
             },
-             "r.1.1": {
+            "r.1.1": {
                 "region": "r.1.1",
                 "uuid": "06de42fd498b4cfd9449c17a5ba6e8c8",
                 "timestamp": 1700865880
             }
-            
         }
     },
     "1_12_version2": {
@@ -147,6 +146,16 @@
                 "region": "r.0.0",
                 "uuid": "06de42fd498b4cfd9449c17a5ba6e8c8",
                 "timestamp": 1703162437
+            }
+        }
+    },
+    "map_forest": {
+        "map_name": "map_forest",
+        "regions": {
+            "r.0.0": {
+                "region": "r.0.0",
+                "uuid": "9590962f0ace47cda4a5cfcafb63b375",
+                "timestamp": 1705068335
             }
         }
     }
