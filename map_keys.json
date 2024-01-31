@@ -158,5 +158,15 @@
                 "timestamp": 1705068335
             }
         }
+    },
+    "Superflat World": {
+        "map_name": "Superflat World",
+        "regions": {
+            "r.0.0": {
+                "region": "r.0.0",
+                "uuid": "e0c7ecc75da046818ae8187ab35b8d99",
+                "timestamp": 1706719508
+            }
+        }
     }
 }
