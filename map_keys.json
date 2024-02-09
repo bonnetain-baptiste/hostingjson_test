@@ -168,5 +168,15 @@
                 "timestamp": 1706719508
             }
         }
+    },
+    "world_water": {
+        "map_name": "world_water",
+        "regions": {
+            "r.0.0": {
+                "region": "r.0.0",
+                "uuid": "fa1258b78e454e088c1b788a7cea4edc",
+                "timestamp": 1707510717
+            }
+        }
     }
 }
