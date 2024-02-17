@@ -223,5 +223,70 @@
                 "timestamp": 1708183997
             }
         }
+    },
+    "map_4": {
+        "map_name": "map_4",
+        "regions": {
+            "r.-2.-2": {
+                "region": "r.-2.-2",
+                "uuid": "577abf7e97fe4c70b63059a2eb2bea46",
+                "timestamp": 1708187173
+            },
+            "r.-2.-1": {
+                "region": "r.-2.-1",
+                "uuid": "71d266511c7f4d7db165f241168dac65",
+                "timestamp": 1708187184
+            },
+            "r.-1.-2": {
+                "region": "r.-1.-2",
+                "uuid": "a7b2596679bd4ce1a526454d2a280dbb",
+                "timestamp": 1708187494
+            },
+            "r.-1.-1": {
+                "region": "r.-1.-1",
+                "uuid": "fa846c60e1d341eca099df5c4988d0de",
+                "timestamp": 1708187503
+            },
+            "r.-2.0": {
+                "region": "r.-2.0",
+                "uuid": "77cb9a9d413d465aab75173b5cf693ad",
+                "timestamp": 1708187805
+            },
+            "r.-2.1": {
+                "region": "r.-2.1",
+                "uuid": "3738a243e99b4495b185efa14c365e7e",
+                "timestamp": 1708187815
+            },
+            "r.-1.0": {
+                "region": "r.-1.0",
+                "uuid": "14bc1222f76d4ba182dc31116c908f81",
+                "timestamp": 1708188140
+            },
+            "r.-1.1": {
+                "region": "r.-1.1",
+                "uuid": "51742b2997e84c03b95109b7bb815a74",
+                "timestamp": 1708188150
+            },
+            "r.0.0": {
+                "region": "r.0.0",
+                "uuid": "b4b6277cb4994d7c89ff7a5b79fecff2",
+                "timestamp": 1708189000
+            },
+            "r.0.1": {
+                "region": "r.0.1",
+                "uuid": "f8bf7030aedb42979f89b9e8cd768cdd",
+                "timestamp": 1708189009
+            },
+            "r.1.0": {
+                "region": "r.1.0",
+                "uuid": "77e4cf35e46a43e89b4af2ae453d0ea3",
+                "timestamp": 1708189314
+            },
+            "r.1.1": {
+                "region": "r.1.1",
+                "uuid": "f90aeb081c434eaf9a18eda12a6c020c",
+                "timestamp": 1708189324
+            }
+        }
     }
 }
