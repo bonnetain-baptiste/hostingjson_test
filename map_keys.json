@@ -198,5 +198,15 @@
                 "timestamp": 1708178920
             }
         }
+    },
+    "map_3": {
+        "map_name": "map_3",
+        "regions": {
+            "r.0.0": {
+                "region": "r.0.0",
+                "uuid": "39b1ec485dc145a78fae1b1e56cdbd80",
+                "timestamp": 1708183558
+            }
+        }
     }
 }
