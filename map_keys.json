@@ -348,5 +348,15 @@
                 "timestamp": 1708209928
             }
         }
+    },
+    "fwc": {
+        "map_name": "fwc",
+        "regions": {
+            "r.0.0": {
+                "region": "r.0.0",
+                "uuid": "33a836d34c3849339e44a29db61adc1c",
+                "timestamp": 1709398404
+            }
+        }
     }
 }
