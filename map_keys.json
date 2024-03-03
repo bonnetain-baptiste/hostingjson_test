@@ -358,5 +358,15 @@
                 "timestamp": 1709398404
             }
         }
+    },
+    "family_guy": {
+        "map_name": "family_guy",
+        "regions": {
+            "r.-5.-8": {
+                "region": "r.-5.-8",
+                "uuid": "46f022d8c6c74e8d9509218828c577be",
+                "timestamp": 1709478552
+            }
+        }
     }
 }
