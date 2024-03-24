@@ -368,5 +368,15 @@
                 "timestamp": 1709478552
             }
         }
+    },
+    "height_map_v1": {
+        "map_name": "height_map_v1",
+        "regions": {
+            "r.0.0": {
+                "region": "r.0.0",
+                "uuid": "81f7124a187a43bd93b3ab6c0e6cc661",
+                "timestamp": 1711265602
+            }
+        }
     }
 }
