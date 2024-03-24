@@ -386,6 +386,16 @@
                 "region": "r.0.0",
                 "uuid": "8f60f2ac50484d65bc54c41a87e94549",
                 "timestamp": 1711279851
+            },
+            "r.0.1": {
+                "region": "r.0.1",
+                "uuid": "265f404d05bf4e699edf104becd19efc",
+                "timestamp": 1711286941
+            },
+            "r.1.1": {
+                "region": "r.1.1",
+                "uuid": "67aaec346b034a7d9d4740e994fc66da",
+                "timestamp": 1711287284
             }
         }
     }
