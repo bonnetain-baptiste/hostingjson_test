@@ -378,5 +378,15 @@
                 "timestamp": 1711265602
             }
         }
+    },
+    "World": {
+        "map_name": "World",
+        "regions": {
+            "r.0.0": {
+                "region": "r.0.0",
+                "uuid": "f89edb299e47494bacfeb27cb3e9cea8",
+                "timestamp": 1711292896
+            }
+        }
     }
 }
