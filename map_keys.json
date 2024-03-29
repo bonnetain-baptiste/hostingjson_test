@@ -403,5 +403,15 @@
                 "timestamp": 1711652476
             }
         }
+    },
+    "test_gravel": {
+        "map_name": "test_gravel",
+        "regions": {
+            "r.0.0": {
+                "region": "r.0.0",
+                "uuid": "a6a2bca53bb64cbeb2419452685e8172",
+                "timestamp": 1711734302
+            }
+        }
     }
 }
