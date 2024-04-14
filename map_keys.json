@@ -448,5 +448,30 @@
                 "timestamp": 1711978606
             }
         }
+    },
+    "voxel_map_6": {
+        "map_name": "voxel_map_6",
+        "regions": {
+            "r.0.0": {
+                "region": "r.0.0",
+                "uuid": "7abe3e12d0024de180c7136cc84cca08",
+                "timestamp": 1713096411
+            },
+            "r.0.1": {
+                "region": "r.0.1",
+                "uuid": "7c7052941be74d55a73c8549ff7bedef",
+                "timestamp": 1713096431
+            },
+            "r.1.0": {
+                "region": "r.1.0",
+                "uuid": "ecd92cd4e35249b5ab1f5fa87665aa69",
+                "timestamp": 1713097153
+            },
+            "r.1.1": {
+                "region": "r.1.1",
+                "uuid": "b895cc211e884677bad0e64730e2c972",
+                "timestamp": 1713097174
+            }
+        }
     }
 }
