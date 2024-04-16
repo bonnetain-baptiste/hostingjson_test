@@ -473,5 +473,15 @@
                 "timestamp": 1713097174
             }
         }
+    },
+    "voxel_map_8": {
+        "map_name": "voxel_map_8",
+        "regions": {
+            "r.0.0": {
+                "region": "r.0.0",
+                "uuid": "269c51334f6a430dbee9b31e428f0228",
+                "timestamp": 1713243263
+            }
+        }
     }
 }
