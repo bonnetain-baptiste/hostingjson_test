@@ -481,6 +481,26 @@
                 "region": "r.0.0",
                 "uuid": "269c51334f6a430dbee9b31e428f0228",
                 "timestamp": 1713243263
+            },
+            "r.-2.-2": {
+                "region": "r.-2.-2",
+                "uuid": "ea91ffabd79e4b7ea1de7530fe15b978",
+                "timestamp": 1713247694
+            },
+            "r.-2.-1": {
+                "region": "r.-2.-1",
+                "uuid": "a848cce54d3d41c18428cf6650071d28",
+                "timestamp": 1713247703
+            },
+            "r.-1.-2": {
+                "region": "r.-1.-2",
+                "uuid": "57afa630599140c793a62ef0c5a4c051",
+                "timestamp": 1713248021
+            },
+            "r.-1.-1": {
+                "region": "r.-1.-1",
+                "uuid": "9575d2f15a434224b0ac53a64195a0fa",
+                "timestamp": 1713248032
             }
         }
     }
