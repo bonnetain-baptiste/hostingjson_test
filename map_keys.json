@@ -988,5 +988,15 @@
                 "timestamp": 1713697354
             }
         }
+    },
+    "The End": {
+        "map_name": "The End",
+        "regions": {
+            "r.0.0": {
+                "region": "r.0.0",
+                "uuid": "d84e4b7a603e4f668a5cf7d00144dafe",
+                "timestamp": 1713699408
+            }
+        }
     }
 }
