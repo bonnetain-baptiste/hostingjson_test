@@ -978,5 +978,15 @@
                 "timestamp": 1713259298
             }
         }
+    },
+    "voxel_nether_test": {
+        "map_name": "voxel_nether_test",
+        "regions": {
+            "r.0.0": {
+                "region": "r.0.0",
+                "uuid": "e9a8dc3868fe4cbca2cfa2863b58e9bc",
+                "timestamp": 1713697354
+            }
+        }
     }
 }
