@@ -998,5 +998,130 @@
                 "timestamp": 1713699408
             }
         }
+    },
+    "voxel_nether": {
+        "map_name": "voxel_nether",
+        "regions": {
+            "r.98.-2": {
+                "region": "r.98.-2",
+                "uuid": "c39a3ca91bab4ef4b05728eb7d1f7f0f",
+                "timestamp": 1713760896
+            },
+            "r.98.-1": {
+                "region": "r.98.-1",
+                "uuid": "8664d1364b304c2e99eca427b380f8b9",
+                "timestamp": 1713760907
+            },
+            "r.99.-2": {
+                "region": "r.99.-2",
+                "uuid": "1f6879c1a70a42c0bd877e779db344c0",
+                "timestamp": 1713761279
+            },
+            "r.99.-1": {
+                "region": "r.99.-1",
+                "uuid": "b8d7f051ff97435d95692324cb33abab",
+                "timestamp": 1713761291
+            },
+            "r.98.0": {
+                "region": "r.98.0",
+                "uuid": "8d62751b71d44316974209044ff8948a",
+                "timestamp": 1713761644
+            },
+            "r.98.1": {
+                "region": "r.98.1",
+                "uuid": "f4b792cd8a224db5aaea1fda510d4d1e",
+                "timestamp": 1713761656
+            },
+            "r.99.0": {
+                "region": "r.99.0",
+                "uuid": "5b42cf37e6194509a385733e2c4e0f78",
+                "timestamp": 1713762011
+            },
+            "r.99.1": {
+                "region": "r.99.1",
+                "uuid": "651fbdc9931c40908e479d7d75a2a211",
+                "timestamp": 1713762023
+            },
+            "r.98.2": {
+                "region": "r.98.2",
+                "uuid": "f0a0c72798f04fec9766a73ae52e1658",
+                "timestamp": 1713762390
+            },
+            "r.98.3": {
+                "region": "r.98.3",
+                "uuid": "bfeddb30fe4645ba95458a72e19eed85",
+                "timestamp": 1713762401
+            },
+            "r.99.2": {
+                "region": "r.99.2",
+                "uuid": "44c34ac6362a43e5a093041c5eaa4128",
+                "timestamp": 1713762765
+            },
+            "r.99.3": {
+                "region": "r.99.3",
+                "uuid": "8f3262b294fc491b826fc56edc9b4d25",
+                "timestamp": 1713762777
+            },
+            "r.100.-2": {
+                "region": "r.100.-2",
+                "uuid": "7286db7d24cc427ebf84eecc71dc5a21",
+                "timestamp": 1713763129
+            },
+            "r.100.-1": {
+                "region": "r.100.-1",
+                "uuid": "71d7e987024c4b419223cae115b35a3a",
+                "timestamp": 1713763141
+            },
+            "r.101.-2": {
+                "region": "r.101.-2",
+                "uuid": "048ccd7c9cce4e769cde1a4bd4a2754a",
+                "timestamp": 1713763503
+            },
+            "r.101.-1": {
+                "region": "r.101.-1",
+                "uuid": "c577a674c77b44fe8e47f7241932a574",
+                "timestamp": 1713763515
+            },
+            "r.100.0": {
+                "region": "r.100.0",
+                "uuid": "45c330d106c84a128db03952b1790b41",
+                "timestamp": 1713763872
+            },
+            "r.100.1": {
+                "region": "r.100.1",
+                "uuid": "365bbb202519416c8750a166564d624f",
+                "timestamp": 1713763883
+            },
+            "r.101.0": {
+                "region": "r.101.0",
+                "uuid": "0eeea35074594ede814bdbd28ab90734",
+                "timestamp": 1713764253
+            },
+            "r.101.1": {
+                "region": "r.101.1",
+                "uuid": "55b899e4eb934ff4ac41819892a60532",
+                "timestamp": 1713764264
+            },
+            "r.100.2": {
+                "region": "r.100.2",
+                "uuid": "076bd3b604ab42d9952b0c5dd87d1ee9",
+                "timestamp": 1713764620
+            },
+            "r.100.3": {
+                "region": "r.100.3",
+                "uuid": "28747da2d74f4bf6888b551e40153014",
+                "timestamp": 1713764631
+            },
+            "r.101.2": {
+                "region": "r.101.2",
+                "uuid": "91a01d4ed5c642d9844864f267033cbb",
+                "timestamp": 1713765000
+            },
+            "r.101.3": {
+                "region": "r.101.3",
+                "uuid": "f7e9b16e3cb342ee8568b4255990788c",
+                "timestamp": 1713765012
+            }
+        }
     }
 }
