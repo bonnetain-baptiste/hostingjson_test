@@ -1348,5 +1348,15 @@
                 "timestamp": 1713767280
             }
         }
+    },
+    "voxel_islands": {
+        "map_name": "voxel_islands",
+        "regions": {
+            "r.0.0": {
+                "region": "r.0.0",
+                "uuid": "1109b361ac1945d7beb79b6a33b5cb73",
+                "timestamp": 1713902000
+            }
+        }
     }
 }
