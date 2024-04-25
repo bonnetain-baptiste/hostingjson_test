@@ -1358,5 +1358,15 @@
                 "timestamp": 1713902000
             }
         }
+    },
+    "islands_test_1": {
+        "map_name": "islands_test_1",
+        "regions": {
+            "r.0.0": {
+                "region": "r.0.0",
+                "uuid": "afb24e17c95b4e44bfc19b6d0ef56342",
+                "timestamp": 1714065367
+            }
+        }
     }
 }
