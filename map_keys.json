@@ -976,6 +976,11 @@
                 "region": "r.5.5",
                 "uuid": "ef403eba76574699827b25e8a72c5c89",
                 "timestamp": 1713259298
+            },
+            "r.100.0": {
+                "region": "r.100.0",
+                "uuid": "aaba79789c5c4b958bcf2f3150be087e",
+                "timestamp": 1714233735
             }
         }
     },
