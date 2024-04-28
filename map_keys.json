@@ -1548,5 +1548,15 @@
                 "timestamp": 1714289074
             }
         }
+    },
+    "studio_test_2": {
+        "map_name": "studio_test_2",
+        "regions": {
+            "r.0.0": {
+                "region": "r.0.0",
+                "uuid": "57730871e0b84b79b2eb5292b24f54cc",
+                "timestamp": 1714289843
+            }
+        }
     }
 }
