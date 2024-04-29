@@ -2606,6 +2606,66 @@
                 "region": "r.5.5",
                 "uuid": "d46f853afa054265b5c712be2ab82cc1",
                 "timestamp": 1714337607
+            },
+            "r.69.0": {
+                "region": "r.69.0",
+                "uuid": "e40821d19b4b49b9b712d3212e2cd500",
+                "timestamp": 1714419689
+            },
+            "r.69.1": {
+                "region": "r.69.1",
+                "uuid": "e3725213d0c943c9ba6080646622af16",
+                "timestamp": 1714419689
+            },
+            "r.70.-1": {
+                "region": "r.70.-1",
+                "uuid": "206f02e2eac24bf198ea7970b4a2aef3",
+                "timestamp": 1714419689
+            },
+            "r.71.-1": {
+                "region": "r.71.-1",
+                "uuid": "1f8566e230cb40d69562f92bc2dc618d",
+                "timestamp": 1714419689
+            },
+            "r.70.0": {
+                "region": "r.70.0",
+                "uuid": "aef71ed10c184d918dd632f23c90b508",
+                "timestamp": 1714419689
+            },
+            "r.70.1": {
+                "region": "r.70.1",
+                "uuid": "c1b09841635f4b3e965bb7928cdde902",
+                "timestamp": 1714419689
+            },
+            "r.71.0": {
+                "region": "r.71.0",
+                "uuid": "d6a7dc48a78341999d2c81cc8d459478",
+                "timestamp": 1714419689
+            },
+            "r.71.1": {
+                "region": "r.71.1",
+                "uuid": "9e9809f6468e4becade1ef9a4b2f1385",
+                "timestamp": 1714419689
+            },
+            "r.70.2": {
+                "region": "r.70.2",
+                "uuid": "cf362c8e411c4e6580cc881b19c42570",
+                "timestamp": 1714419689
+            },
+            "r.71.2": {
+                "region": "r.71.2",
+                "uuid": "d33d77f90d5b46219c0cba30f05c1943",
+                "timestamp": 1714419689
+            },
+            "r.72.0": {
+                "region": "r.72.0",
+                "uuid": "c1fcfa87d52b4f33b60932938face9cf",
+                "timestamp": 1714419689
+            },
+            "r.72.1": {
+                "region": "r.72.1",
+                "uuid": "dbae8a4fe96140518c8bee0dca2b7923",
+                "timestamp": 1714419689
             }
         }
     }
