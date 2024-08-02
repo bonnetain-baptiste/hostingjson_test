@@ -4608,5 +4608,15 @@
                 "timestamp": 1714664495
             }
         }
+    },
+    "hypixel_test": {
+        "map_name": "hypixel_test",
+        "regions": {
+            "r.0.0": {
+                "region": "r.0.0",
+                "uuid": "3ac7680f39d4435895edc99391fe4bd7",
+                "timestamp": 1722617758
+            }
+        }
     }
 }
